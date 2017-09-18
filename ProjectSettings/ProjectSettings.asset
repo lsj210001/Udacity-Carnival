@@ -143,7 +143,7 @@ PlayerSettings:
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier:
-    Android: com.Udacity.UdacityCarnival
+    Android: com.dtbllsj.Udacity.UdacityCarnival
     Standalone: com.Udacity.UdacityCarnival
     Tizen: com.udacity.p1
     iOS: com.udacity.p1.myname
